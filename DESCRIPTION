@@ -1,0 +1,14 @@
+Package: FinancialMathematics
+Title: Financial Mathematics Functions
+Version: 1.0.0.0000
+Authors@R: 
+    person(given = "Revendra",
+           family = "T",
+           role = c("aut", "cre"),
+           email = "t.revendra@gmail.com")
+Description: Has all functions on mathematical finance
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
